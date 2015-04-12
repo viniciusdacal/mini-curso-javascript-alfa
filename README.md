@@ -1,2 +1,2 @@
-# mini-curso-javascript-alfa
-Materiais criados no mini curso sobre Javascript na Faculdade Alfa
+# Mini curso Javascript - Faculdade Alfa
+Materiais criados no mini curso sobre Javasscript na Faculdade Alfa
