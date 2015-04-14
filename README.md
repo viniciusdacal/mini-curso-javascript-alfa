@@ -1,6 +1,6 @@
 # Minicurso Javascript - Faculdade Alfa Umuarama
 
-##Código fonte dos exemplos criados:
+##Código fonte dos exemplos:
 - [Exemplo de orientação a objeto](orientacao-objeto-1)
 - [Trabalhando com canvas](ball)
 
